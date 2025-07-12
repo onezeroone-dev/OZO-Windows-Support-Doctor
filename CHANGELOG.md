@@ -1,5 +1,5 @@
-# OZO PowerShell Script Template
+# OZO Windows Support Doctor Change Log
 
 |Date|Version|Comment|
 |----|-------|-------|
-|YYYY-MM-DD|1.0.0|Initial release.|
+|2025-Jul-12|1.0.0|Initial release.|
