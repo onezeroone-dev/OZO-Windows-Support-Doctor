@@ -1,12 +1,13 @@
 # OZO Windows Support Doctor Installation and Usage
 ## Description
-Performs a series of simple Windows maintenance tasks and [optionally] reboots the computer.:
+Performs a series of simple Windows maintenance tasks and [optionally] reboots the computer:
 * Runs SFC "scannow"
 * Executes a DISM Restore Health
 * Flushes the DNS cache
 * Cycles the network adapters
 * Refreshes Group Policy (domain-joined systems)
 * Installs all pending Windows Updates
+* [Optional\] reboots the computer
 
 ## Screenshot
 <img src="ozo-windows-support-doctor.png" width="600">
